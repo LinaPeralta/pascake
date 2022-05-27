@@ -607,7 +607,7 @@ _auth.onAuthStateChanged(_app.auth, async (user)=>{
     loadProducts();
 });
 btnCustome.addEventListener("click", (e)=>{
-    window.location.href = "https://linaperalta.github.io/pascakeP5/index.html";
+    window.location.href = "https://linaperalta.github.io/pascakeP5/empty-example/index.html";
 });
 
 },{"../src/functions/app":"04vpA","firebase/auth":"drt1f","../src/functions/allProducts":"esshn","../src/functions/cart":"b7GtJ","../utils":"jklHo"}],"04vpA":[function(require,module,exports) {

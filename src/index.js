@@ -130,7 +130,7 @@ onAuthStateChanged(auth, async (user) => {
 
 
 btnCustome.addEventListener("click", (e) => {
-    window.location.href= "https://linaperalta.github.io/pascakeP5/index.html";
+    window.location.href= "https://linaperalta.github.io/pascakeP5/empty-example/index.html";
 });
 
 
