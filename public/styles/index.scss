@@ -355,23 +355,15 @@ nav {
   border: none;
   font-family: 'Poppins', sans-serif;
 }
-.btnCustome {
-  color: white;
-  margin-left: 6%;
-  margin-bottom: 10%;
-  width: 20%;
-  height: 30px;
-  border-radius: 10px;
-  background-color: #FFA3B9;
-  border: none;
-  font-family: 'Poppins', sans-serif;
-}
 
 .customeText{
+  margin-left: 10%;
   font-size: 1.3em;
+  margin-top: 5%;
 }
 
 .go{
+  margin-top: 5%;
   font-size: 1.3em;
   color: #F399AF;
   margin-left: 1%;
@@ -726,11 +718,22 @@ nav {
 }
 
 .customeCakes{
-  margin-bottom: 0;
+  
+  margin-top: 5%;
+  margin-bottom: 0%;
   margin-left: 5%;
+  margin-right: 5%;
   display: flex;
+  background-color: #F2EDF0;
 }
-
+.imgDiv{
+  margin-bottom: 2%;
+}
+.cakeImg{
+  margin-top: 2%;
+  margin-left:10%;
+  width: 25%;
+}
 
 .filters{
   //margin-top: 2%;
